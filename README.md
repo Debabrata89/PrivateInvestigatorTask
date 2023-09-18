@@ -7,7 +7,7 @@ Therefore **time complexity** is O(nk) where n is the number of sentences and K 
 **Space complexity** : O(s) where s is the size of HasMap<br>
 **2. How will your algorithm scale?**
 The algorithem would scale well given the time complexity of O(nk).<br>
- But if the file size is very big read/write operation could be a bottleneck. Reading and writing can be parallelized with multithreading to improve performance.<>
+ But if the file size is very big read/write operation could be a bottleneck. Reading and writing can be parallelized with multithreading to improve performance.<br>
 **3. If you had two weeks to do this task, what would you have done differently? What would be
 better?**<br>
 Would have explored other algorithm for creating diff alorithm like Mayer's algorithm Or LCS to reduce the time complexity further.
