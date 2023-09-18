@@ -11,3 +11,4 @@ The algorithem would scale well given the time complexity of O(nk).<br>
 **3. If you had two weeks to do this task, what would you have done differently? What would be
 better?**<br>
 Would have explored other algorithm for creating diff alorithm like Mayer's algorithm Or LCS to reduce the time complexity further.
+Also implemented using some design pattern. Better error handling and logging.
