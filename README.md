@@ -1,7 +1,7 @@
 # PrivateInvestigatorTask
 **How to run ?**<br>
 Ans : PrivateInvestigator.java has main method. Run this class to get the output.Before running empty the output.txt file.<br>
-Open the project in any editor like intelliJ . Build the project and run PrivateInvestigator.java
+Open the project in any editor like intelliJ . Build the project and run PrivateInvestigator.java<br>
 **1. What can you say about the complexity of your code?**<br>
 Ans : Basically we are generating new sentence by removing one word and putting this new sentence as HashMap key. We  grouping them as we read sentences.<br>
 Therefore **time complexity** is O(nk) where n is the number of sentences and K is number of words.
